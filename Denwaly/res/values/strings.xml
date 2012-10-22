@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Denwaly</string>
+    <string name="top_label">パソコンで着信をチェック!\nひみつのURLをパソコンで開いてね。</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Denwaly</string>
+    <string name="share_button">ひみつのURL</string>
+
+</resources>
